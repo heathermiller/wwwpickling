@@ -159,7 +159,6 @@ img {
 }
 
 pre, code {
-  width: 100%;
   color: #222;
   background-color: #fff;
 
@@ -172,7 +171,6 @@ pre, code {
 }
 
 pre {
-  width: 100%;
   padding: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,.1);
   overflow: auto;
@@ -364,6 +362,46 @@ Full-Width Styles
 
 #footer_wrap {
   background: #212121;
+}
+
+#box-wrapper {
+  text-align: center;
+}
+
+#overview-box {
+  position: relative;
+  float: left;
+  background-color: #E65D5D;
+  border-radius: 3px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 160px;
+  height: 150px;
+}
+
+#appendix-box {
+  position: relative;
+  display: inline-block;
+  background-color: #E65D5D;
+  border-radius: 3px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 160px;
+  height: 150px;
+}
+
+#benchmarks-box {
+  position: relative;
+  float: right;
+  background-color: #E65D5D;
+  border-radius: 3px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 160px;
+  height: 150px;
 }
 
 /*******************************************************************************
