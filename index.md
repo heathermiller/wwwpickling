@@ -26,7 +26,7 @@ serialization.
 Details of the pickling framework can be found in our draft paper *(under review)*:
 
 <span class="paper">
-<span class="icon-wrap"><a href="{{ site.baseurl }}/resources/pickling.pdf"><img class="pdf-icon" src="{{ site.baseurl }}/resources/img/pdf-icon.png"/></a></span><strong><a href="{{ site.baseurl }}/resources/oopsla-pickling.pdf">Object-Oriented Pickler Combinators: and an Extensible Generation Framework</a></strong>, by Heather Miller, Philipp Haller, Eugene Burmako, and Martin Odersky. <em>submitted, </br>under review.</em>
+<span class="icon-wrap"><a href="{{ site.baseurl }}/resources/pickling.pdf"><img class="pdf-icon" src="{{ site.baseurl }}/resources/img/pdf-icon.png"/></a></span><strong><a href="{{ site.baseurl }}/resources/oopsla-pickling.pdf">Object-Oriented Pickler Combinators and an Extensible Generation Framework</a></strong>, by Heather Miller, Philipp Haller, Eugene Burmako, and Martin Odersky. <em>submitted, </br>under review.</em>
 </span>
 
 <br/>
