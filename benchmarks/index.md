@@ -10,4 +10,8 @@ applications include benchmarked data types from the
 [Geotrellis](https://github.com/geotrellis/geotrellis) project, and full
 benchmarked applications of [Spark](http://spark-project.org/).
 
+### What We Compare Against
+
+We compare against
+
 Coming soon!!

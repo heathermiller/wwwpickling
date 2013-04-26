@@ -444,6 +444,13 @@ Full-Width Styles
   width: 40px;
 }
 
+.highlight {
+  color: #CB366D;
+  font-weight: bold;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.5);
+  text-transform: capitalize;
+}
+
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/

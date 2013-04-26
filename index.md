@@ -57,10 +57,4 @@ Details of the pickling framework can be found in our draft paper *(under review
   </div>
 </div>
 
-### What Makes It Different?
-
-Most other *automatic* serialization frameworks rely predominantly on runtime
-reflection which often has a high runtime cost, or on bytecode rewriting which
-isn't typesafe.  Instead, Scala Pickling generates pickling/unpickling code at
-compile-time, guaranteeing you fast statically-generated picklers and typesafe
-serialization.
+{% include what-makes-it-different.md %}
