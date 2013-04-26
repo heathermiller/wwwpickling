@@ -15,13 +15,7 @@ Unpickling is just as easy:
 
 </br>
 
-### What Makes It Different?
-
-Most other serialization frameworks rely predominantly on runtime reflection
-which often has a high runtime cost, or on bytecode rewriting which isn't
-typesafe.  Instead, Scala Pickling generates pickling/unpickling code at
-compile-time, guaranteeing you fast statically-generated picklers and typesafe
-serialization.
+### Publication
 
 Details of the pickling framework can be found in our draft paper *(under review)*:
 
@@ -48,14 +42,22 @@ Details of the pickling framework can be found in our draft paper *(under review
 
 <div id="box-wrapper">
   <div id="overview-box">
-    this is an overview box!
+    Overview
   </div>
 
   <div id="benchmarks-box">
-    this is a benchmarks box!
+    Benchmarks
   </div>
 
   <div id="appendix-box">
-    this is an appendix box!
+    Appendix
   </div>
 </div>
+
+### What Makes It Different?
+
+Most other serialization frameworks rely predominantly on runtime reflection
+which often has a high runtime cost, or on bytecode rewriting which isn't
+typesafe.  Instead, Scala Pickling generates pickling/unpickling code at
+compile-time, guaranteeing you fast statically-generated picklers and typesafe
+serialization.

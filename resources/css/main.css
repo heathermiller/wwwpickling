@@ -366,42 +366,57 @@ Full-Width Styles
 
 #box-wrapper {
   text-align: center;
+  font-size: 24px;
+  color: #fff;
+  font-weight: bold;
 }
 
 #overview-box {
   position: relative;
   float: left;
-  background-color: #E65D5D;
+  background-color: #0090FF;
   border-radius: 3px;
   padding: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
   width: 160px;
-  height: 150px;
+  height: 30px;
+}
+
+#overview-box:hover {
+  background-color: #00c0ff;
 }
 
 #benchmarks-box {
   position: relative;
   display: inline-block;
-  background-color: #E65D5D;
+  background-color: #CB366D;
   border-radius: 3px;
   padding: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
   width: 160px;
-  height: 150px;
+  height: 30px;
+}
+
+#benchmarks-box:hover {
+  background-color: #ef2597;
 }
 
 #appendix-box {
   position: relative;
   float: right;
-  background-color: #E65D5D;
+  background-color: #E96238;
   border-radius: 3px;
   padding: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
   width: 160px;
-  height: 150px;
+  height: 30px;
+}
+
+#appendix-box:hover {
+  background-color: #ff8c2f;
 }
 
 .icon-wrap {
