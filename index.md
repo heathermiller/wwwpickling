@@ -20,7 +20,7 @@ Unpickling is just as easy:
 Details of the pickling framework can be found in our draft paper *(under review)*:
 
 <span class="paper">
-<span class="icon-wrap"><a href="{{ site.baseurl }}/resources/pickling.pdf"><img class="pdf-icon" src="{{ site.baseurl }}/resources/img/pdf-icon.png"/></a></span><strong><a href="{{ site.baseurl }}/resources/oopsla-pickling.pdf">Object-Oriented Pickler Combinators and an Extensible Generation Framework</a></strong>, by Heather Miller, Philipp Haller, Eugene Burmako, and Martin Odersky. <em>submitted, </br>under review.</em>
+<span class="icon-wrap"><a href="http://http://lampwww.epfl.ch/~hmiller/files/pickling.pdf"><img class="pdf-icon" src="{{ site.baseurl }}/resources/img/pdf-icon.png"/></a></span><strong><a href="{{ site.baseurl }}/resources/oopsla-pickling.pdf">Object-Oriented Pickler Combinators and an Extensible Generation Framework</a></strong>, by Heather Miller, Philipp Haller, Eugene Burmako, and Martin Odersky. <em>submitted, </br>under review.</em>
 </span>
 
 <br/>
@@ -59,8 +59,8 @@ Details of the pickling framework can be found in our draft paper *(under review
 
 ### What Makes It Different?
 
-Most other serialization frameworks rely predominantly on runtime reflection
-which often has a high runtime cost, or on bytecode rewriting which isn't
-typesafe.  Instead, Scala Pickling generates pickling/unpickling code at
+Most other *automatic* serialization frameworks rely predominantly on runtime
+reflection which often has a high runtime cost, or on bytecode rewriting which
+isn't typesafe.  Instead, Scala Pickling generates pickling/unpickling code at
 compile-time, guaranteeing you fast statically-generated picklers and typesafe
 serialization.
