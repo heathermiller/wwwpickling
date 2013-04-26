@@ -3,7 +3,7 @@
 
 Scala Pickling...
 
-- can be <span class="highlight">language-agnostic</span>
+- can be <span class="highlight">language-neutral</span>
   if you want it to be. Changing the format of
   your serialized data is as easy as importing the correct implicit
   *pickle format* into scope. Out of the box, we currently support a fast
@@ -20,7 +20,7 @@ Scala Pickling...
   you would like to serialize.
 - gives you more <span class="highlight">typesafety.</span>
   No more errors from serialization/deserialization
-  propagating to arbitrary points in your program. Unlike, Java Serialization,
+  propagating to arbitrary points in your program. Unlike Java Serialization,
   errors either manifest themselves as compile-time errors, or runtime errors
   only at the point of unpickling.
 - has <span class="highlight">robust support for object-orientation.</span>
@@ -31,8 +31,8 @@ Scala Pickling...
   that if you pickle an instance of a subclass, and then try to unpickle as an
   instance of a superclass, you will still get back the original subclass which
   you initially pickled.
-- <span class="highlight">happens at compile-time.</span>
-  That means that it's super-performant becuase
+- <span class="highlight">happens at compile-time.</span> That means that it's
+  super-performant because
   serialization-related code is typically generated at compile-time and inlined
   where it is needed in your code. Scala Pickling is essentially fully-static,
   reflection is only used as a fallback when static (compile-time) generation fails.
