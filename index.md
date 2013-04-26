@@ -43,14 +43,17 @@ Details of the pickling framework can be found in our draft paper *(under review
 <div id="box-wrapper">
   <div id="overview-box">
     Overview
+    <a href="{{ site.baseurl }}/overview"><span></span></a>
   </div>
 
   <div id="benchmarks-box">
     Benchmarks
+    <a href="{{ site.baseurl }}/benchmarks"><span></span></a>
   </div>
 
   <div id="appendix-box">
     Appendix
+    <a href="{{ site.baseurl }}/appendix"><span></span></a>
   </div>
 </div>
 
