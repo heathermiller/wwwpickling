@@ -199,8 +199,19 @@ ul, ol, dl {
 }
 
 ul li {
-  list-style: inside;
-  padding-left: 20px;
+  /*list-style: outside;*/
+  padding-left: 30px;
+  padding-bottom: 12px;
+}
+
+ul li:before {
+  content: '\2714';
+  color: #0090FF;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: -30px;
+  padding-right: 6px;
+  /*margin: 0 1em;*/
 }
 
 ol li {

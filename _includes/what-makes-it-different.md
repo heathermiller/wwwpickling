@@ -7,8 +7,8 @@ Scala Pickling...
   if you want it to be. Changing the format of
   your serialized data is as easy as importing the correct implicit
   *pickle format* into scope. Out of the box, we currently support a fast
-  Scala binary format, as well as JSON. Or, you can even roll your own
-  custom pickle format!
+  Scala binary format, as well as JSON. Support is currently planned for
+  other formats. Or, you can even roll your own custom pickle format!
 - ... is <span class="highlight">automatic.</span>
   That is, without any boilerplate at all, one can
   instruct the framework to figure out how to serialize an arbitrary class
