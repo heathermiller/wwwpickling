@@ -30,7 +30,7 @@ We used the following JVM options for running the benchmarks:
 
     -Xms1536M -Xmx4096M -Xss2M -XX:MaxPermSize=512M -XX:+UseParallelGC
 
-<div id="EvactorBenchPlot"></div>
+<div id="EvactorBenchPlot">&nbsp;</div>
 
 <script type="text/javascript">
 $(document).ready(function() {

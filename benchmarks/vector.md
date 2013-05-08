@@ -24,9 +24,9 @@ use Scala's standard List type with Kryo, one must write a custom
 serializer, which would sidestep the objective of this benchmark,
 which is to compare the speed of generated picklers.
 
-<div id="VectorBenchPlot"></div>
-<div id="VectorMemPlot"></div>
-<div id="VectorSizePlot"></div>
+<div id="VectorBenchPlot">&nbsp;</div>
+<div id="VectorMemPlot">&nbsp;</div>
+<div id="VectorSizePlot">&nbsp;</div>
 
 <script type="text/javascript">
 $(document).ready(function() {
