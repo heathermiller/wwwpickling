@@ -21,7 +21,7 @@ in this case. Scala-pickling is still significantly faster, since the
 static type of the array is effectively-final, so that efficient
 array-pickling code can be generated at compile time.
 
-<div id="GeoTrellisPlot"></div>
+<div id="GeoTrellisPlot">&nbsp;</div>
 
 <script type="text/javascript">
 $(document).ready(function() {
