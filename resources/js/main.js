@@ -23,7 +23,6 @@ var yAxis = d3.svg.axis()
     .orient("left");
 
 var line = d3.svg.line()
-    .interpolate("basis")
     .x(function(d) { return x(d.size); })
     .y(function(d) { return y(d.time); });
 
@@ -107,7 +106,6 @@ var yAxis = d3.svg.axis()
     .orient("left");
 
 var line = d3.svg.line()
-    .interpolate("basis")
     .x(function(d) { return x(d.size); })
     .y(function(d) { return y(d.mem); });
 
@@ -191,7 +189,6 @@ var yAxis = d3.svg.axis()
     .orient("left");
 
 var line = d3.svg.line()
-    .interpolate("basis")
     .x(function(d) { return x(d.size); })
     .y(function(d) { return y(d.mem); });
 
