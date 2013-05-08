@@ -4,8 +4,15 @@ layout: page
 
 ## Benchmarks
 
+This section contains a growing number of different benchmarks. To date, we
+have our own microbenchmarks, as well as benchmarks on real-world data types
+and applications.
+
 - [Collections Benchmark](vector.html) A suite of microbenchmarks pickling immutable collections.
 - [GeoTrellis Benchmark](geotrellis.html). Benchmarked data types from the [Geotrellis](https://github.com/geotrellis/geotrellis) project.
+
+Soon to be posted: benchmarking running [Spark](http://spark-project.org/)
+applications, and [Evactor](https://github.com/aorwall/evactor) data types.
 
 <!--
 This section will contain a number of our benchmarks. To date, we have our own
