@@ -8,6 +8,10 @@ This section contains a growing number of different benchmarks. To date, we
 have our own microbenchmarks, as well as benchmarks on real-world data types
 and applications.
 
+Becuase Scala Pickling is an intended-for-production project, benchmarks are
+critical for determining potential impact and thus utility in production
+applications. We will continue amass such benchmarks and post them here.
+
 - [Collections Benchmark](vector.html) A suite of microbenchmarks pickling immutable collections.
 - [GeoTrellis Benchmark](geotrellis.html). Benchmarked data types from the [Geotrellis](https://github.com/geotrellis/geotrellis) project.
 
