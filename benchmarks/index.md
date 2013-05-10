@@ -16,9 +16,10 @@ here:
 
 - [Collections Benchmark](vector.html) A suite of microbenchmarks pickling immutable collections.
 - [GeoTrellis Benchmark](geotrellis.html). Benchmarked data types from the [Geotrellis](https://github.com/geotrellis/geotrellis) project.
+- [Evactor Benchmark](evactor.html). Benchmarked data types from the [Evactor](https://github.com/aorwall/evactor) project.
 
 Soon to be posted: benchmarking running [Spark](http://spark-project.org/)
-applications, and [Evactor](https://github.com/aorwall/evactor) data types.
+applications.
 
 <!--
 This section will contain a number of our benchmarks. To date, we have our own
