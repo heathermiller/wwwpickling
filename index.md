@@ -52,8 +52,8 @@ Details of the pickling framework can be found in our draft paper *(under review
   </div>
 
   <div id="appendix-box">
-    Appendix
-    <a href="{{ site.baseurl }}/appendix"><span></span></a>
+    Examples
+    <a href="{{ site.baseurl }}/examples"><span></span></a>
   </div>
 </div>
 
