@@ -41,20 +41,20 @@ Details of the pickling framework can be found in our draft paper *(under review
  -->
 
 <div id="box-wrapper">
-  <div id="overview-box">
+<!--   <div id="overview-box">
     Overview
     <a href="{{ site.baseurl }}/overview"><span></span></a>
-  </div>
+  </div> -->
 
   <div id="benchmarks-box">
     Benchmarks
     <a href="{{ site.baseurl }}/benchmarks"><span></span></a>
   </div>
 
-  <div id="appendix-box">
+  <!-- <div id="appendix-box">
     Examples
     <a href="{{ site.baseurl }}/examples"><span></span></a>
-  </div>
+  </div> -->
 </div>
 
 {% include what-makes-it-different.md %}
