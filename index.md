@@ -75,4 +75,5 @@ For a more illustrative example, see a [sample SBT project which uses Scala Pick
 Or you can just [directly download the jar](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=snapshots&g=org.scala-lang&a=scala-pickling_2.10&v=0.8.0-SNAPSHOT&e=jar).
 
 
+
 {% include what-makes-it-different.md %}
