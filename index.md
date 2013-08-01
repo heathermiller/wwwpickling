@@ -20,7 +20,7 @@ Unpickling is just as easy:
 Details of the pickling framework can be found in our draft paper *(under review)*:
 
 <span class="paper">
-<span class="icon-wrap"><a href="http://lampwww.epfl.ch/~hmiller/files/pickling.pdf"><img class="pdf-icon" src="{{ site.baseurl }}/resources/img/pdf-icon.png"/></a></span><strong><a href="http://lampwww.epfl.ch/~hmiller/files/oopsla-pickling.pdf">Object-Oriented Pickler Combinators and an Extensible Generation Framework</a></strong>, by Heather Miller, Philipp Haller, Eugene Burmako, and Martin Odersky. In <em>OOPSLA'13, Indianapolis, IN, USA</em>, October 2013.
+<span class="icon-wrap"><a href="http://lampwww.epfl.ch/~hmiller/files/oopsla-pickling.pdf"><img class="pdf-icon" src="{{ site.baseurl }}/resources/img/pdf-icon.png"/></a></span><strong><a href="http://lampwww.epfl.ch/~hmiller/files/oopsla-pickling.pdf">Object-Oriented Pickler Combinators and an Extensible Generation Framework</a></strong>, by Heather Miller, Philipp Haller, Eugene Burmako, and Martin Odersky. In <em>OOPSLA'13, Indianapolis, IN, USA</em>, October 2013.
 </span>
 
 ### Talk
