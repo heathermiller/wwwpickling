@@ -21,7 +21,7 @@ Details of the pickling framework can be found in our draft paper *(under review
 
 <span class="paper">
 
-<span class="icon-wrap"><a href="http://lampwww.epfl.ch/~hmiller/files/oopsla-pickling.pdf"><img class="pdf-icon" src="{{ site.baseurl }}/resources/img/pdf-icon.png"/></a></span><strong><a href="http://lampwww.epfl.ch/~hmiller/files/oopsla-pickling.pdf">Instant Pickles: Generating Object-Oriented Pickler Combinators for Fast and Extensible Serialization</a></strong>, by Heather Miller, Philipp Haller, Eugene Burmako, and Martin Odersky. In <em>OOPSLA'13, Indianapolis, IN, USA</em>, October 26-31 2013.
+<span class="icon-wrap"><a href="http://infoscience.epfl.ch/record/187787/files/oopsla-pickling_1.pdf"><img class="pdf-icon" src="{{ site.baseurl }}/resources/img/pdf-icon.png"/></a></span><strong><a href="http://infoscience.epfl.ch/record/187787/files/oopsla-pickling_1.pdf">Instant Pickles: Generating Object-Oriented Pickler Combinators for Fast and Extensible Serialization</a></strong>, by Heather Miller, Philipp Haller, Eugene Burmako, and Martin Odersky. In <em>OOPSLA'13, Indianapolis, IN, USA</em>, October 26-31 2013.
 </span>
 
 ### Talk
