@@ -528,3 +528,7 @@ Small Device Styles
   stroke: steelblue;
   stroke-width: 1.5px;
 }
+
+.italic {
+  font-style: italic;
+}
