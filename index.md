@@ -29,6 +29,9 @@ Details of the pickling framework can be found in our draft paper *(under review
 **ScalaDays 2013**<br/>
 [On Pickles and Spores: Improving Support for Distributed Programming in Scala](https://speakerdeck.com/heathermiller/on-pickles-and-spores-improving-support-for-distributed-programming-in-scala), <br/>by Heather Miller, June 13th 2013
 
+**Strange Loop 2013**<br/>
+[Spores: Distributable Functions in Scala](https://speakerdeck.com/heathermiller/spores-distributable-functions-in-scala), <br/>by Heather Miller, September 18th 2013 (this talk covers mostly spores, closures that you can serialize and distribute in Scala)
+
 <br/>
 
 ### See More!
