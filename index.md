@@ -69,7 +69,7 @@ Details of the pickling framework can be found in our draft paper *(under review
 
 ### Download
 
-Scala Pickling for Scala 2.10.2 is available on Sonatype! You can find Scala Pickling under groupID: `org.scala-lang` and artifactID: `scala-pickling_2.10`. The current version is 0.8.0-SNAPSHOT.
+Scala Pickling for Scala 2.10.3 is available on Sonatype! You can find Scala Pickling under groupID: `org.scala-lang` and artifactID: `scala-pickling_2.10`. The current version is 0.8.0-SNAPSHOT.
 
 You can use Scala Pickling in your SBT project by simply adding the following dependency to your build file:
 
