@@ -31,7 +31,7 @@ Details of the pickling framework can be found in our draft paper *(under review
 
 **Strange Loop 2013**<br/>
 [Spores: Distributable Functions in Scala](https://speakerdeck.com/heathermiller/spores-distributable-functions-in-scala), <br/>by Heather Miller, September 18th 2013
-<br/>(this talk covers mostly spores, closures that you can serialize and distribute in Scala)
+<br/><i>(this talk covers mostly spores, closures that you can serialize and distribute in Scala)</i>
 
 <br/>
 
