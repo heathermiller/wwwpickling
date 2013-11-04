@@ -30,19 +30,19 @@ We used the following JVM options for running the benchmarks:
 
     -Xms1536M -Xmx4096M -Xss2M -XX:MaxPermSize=512M -XX:+UseParallelGC
 
-&nbsp;<br><br>
+&#x20;<br/><br/>
 &darr; **Pickling 1,000 to 10,000 events, using Scala-Pickling, Kryo, and Java Serialization**
 <div id="EvactorBenchPlot">&nbsp;</div>
 
 
-&nbsp;<br><br>
+&#x20;<br/><br/>
 &darr; **Pickling 1,000 to 10,000 events, using Scala-Pickling, Kryo, and Java Serialization, truncated**
 (Same as plot above, but without Java's result for 8,000 events. We show this plot so it's easier to compare Scala-Pickling and Kryo.)
 
 <div id="EvactorBenchPlot-trunc">&nbsp;</div>
 
 
-&nbsp;<br><br>
+&#x20;<br/><br/>
 &darr; **Pickling 20,000 to 38,000 events, using Scala-Pickling and Kryo**
 
 Below, we compare just Kryo and Scala-Pickling (not Java) for more events than the above two benchmarks, since Java runs out of memory at about 9,000 events. Here, instead, we see how Scala-Pickling and Kryo scale relative to one another as we vary the number of events from 20,000 to 38,000 events.
